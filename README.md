@@ -24,7 +24,9 @@
   <img width="12" />
   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/458458i4B805FE1B1823BC0/image-size/original?v=v2&px=-1" height="30" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/661/195/png-clipart-logo-elasticsearch-graphics-logstash-font-elastic-text-logo.png" height="30" alt="elasticsearch logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" height="30" alt="elasticsearch logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/762/712/png-clipart-logo-kibana-elasticsearch-kiba-text-presentation.png" height="30" alt="kibana logo"  />
 </div>
 
 ###
