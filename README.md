@@ -27,6 +27,8 @@
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" height="30" alt="elasticsearch logo"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" height="30" alt="kibana logo"  />
+  <img width="12" />
+  <img src="https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png" height="30" alt="powerbi logo"  />
 </div>
 
 ###
