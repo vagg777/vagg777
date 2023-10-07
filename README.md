@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" height="30" alt="elasticsearch logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/762/712/png-clipart-logo-kibana-elasticsearch-kiba-text-presentation.png" height="30" alt="kibana logo"  />
+  <img src="https://seeklogo.com/images/K/kibana-logo-DFD185B4B0-seeklogo.com.png" height="30" alt="kibana logo"  />
 </div>
 
 ###
