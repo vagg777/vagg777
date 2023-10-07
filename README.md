@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src=" https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" height="30" alt="mysql logo"  />
+  <img src="https://w7.pngwing.com/pngs/384/848/png-transparent-mysql-php-database-javascript-ajax-carnifex-blue-text-logo.png" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/458458i4B805FE1B1823BC0/image-size/original?v=v2&px=-1" height="30" alt="matlab logo"  />
   <img width="12" />
