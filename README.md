@@ -22,7 +22,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/458458i4B805FE1B1823BC0/image-size/original?v=v2&px=-1" height="30" alt="csharp logo"  />
+  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/458458i4B805FE1B1823BC0/image-size/original?v=v2&px=-1" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/661/195/png-clipart-logo-elasticsearch-graphics-logstash-font-elastic-text-logo.png" height="30" alt="elasticsearch logo"  />
 </div>
 
 ###
