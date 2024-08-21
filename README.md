@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" height="30" alt="mysql logo"  />
   <img width="12" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="30" alt="spring logo"  />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="25" alt="spring logo"  />
   <img width="12" />
  <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_black.png" height="30" alt="opencv logo"  />
   <img width="12" />
