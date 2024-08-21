@@ -35,6 +35,8 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" height="30" alt="kibana logo"  />
   <img width="12" />
   <img src="https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png" height="30" alt="powerbi logo"  />
+  <img width="12" />
+  <img src=" https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" height="30" alt="wordpress logo"  />
 </div>
 
 ###
