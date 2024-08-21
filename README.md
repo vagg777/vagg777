@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.svgrepo.com/show/374144/typescript.svg)" height="30" alt="typescript logo" />
+  <img src="https://www.svgrepo.com/show/374144/typescript.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" height="30" alt="mysql logo"  />
   <img width="12" />
