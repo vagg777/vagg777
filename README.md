@@ -12,33 +12,35 @@
 ###
 
 <div align="left">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="30" alt="java logo"  />
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="30" alt="java logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374144/typescript.svg" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" height="30" alt="mysql logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png" height="30" alt="mysql logo"/>
   <img width="12" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="25" alt="spring logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="25" alt="spring logo"/>
   <img width="12" />
- <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_black.png" height="30" alt="opencv logo"  />
+  <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_black.png" height="30" alt="opencv logo"/>
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="30" alt="flask logo"/>
+  <img width="12" />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" height="30" alt="elasticsearch logo"/>
+  <img width="12" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" height="30" alt="kibana logo"/>
+  <img width="12" />
+  <img src="https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png" height="30" alt="powerbi logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" height="30" alt="wordpress logo"/>
   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/458458i4B805FE1B1823BC0/image-size/original?v=v2&px=-1" height="30" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" height="30" alt="elasticsearch logo"  />
-  <img width="12" />
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/elastic-kibana-logo.png" height="30" alt="kibana logo"  />
-  <img width="12" />
-  <img src="https://processm.com/wp-content/uploads/2021/10/powerBI-Logo.png" height="30" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" height="30" alt="wordpress logo"  />
 </div>
 
 ###
