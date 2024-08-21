@@ -28,6 +28,8 @@
   <img width="12" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" height="30" alt="spring logo"  />
   <img width="12" />
+ <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_black.png" height="30" alt="opencv logo"  />
+  <img width="12" />
   <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/458458i4B805FE1B1823BC0/image-size/original?v=v2&px=-1" height="30" alt="matlab logo"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg" height="30" alt="elasticsearch logo"  />
